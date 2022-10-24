@@ -3,4 +3,11 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lharrak-botaina&langs_count=10&theme=dracula&layout=compact" alt="lharrak-botaina:: Top Langs" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lharrak-botaina)](https://git.io/streak-stats)
+
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+
+
